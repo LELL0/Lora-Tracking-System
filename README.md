@@ -18,8 +18,13 @@ Libraries: Lora, TinyGPS++, SoftwareSerial
 
 
 
+## About lora:
+- LoRa consumes less power than other transmitters
+- LoRa can send data through long distances ~5Km
+
+
 ## Changing the spreading factor SF and the Coding Rate CR based on our needs:
 
 - The spreading factor controls the chirp rate, and thus controls the speed of data transmission. Lower sf means higher bit rate, but lower sensitivity and thus more scrambled data, but will drain the battery slower.
 
-- a higher coding rate will not increase range, but will make a link more reliable if interference is present, Higher coding rate will dedicate a bigger part of the packet for error correction
+- a higher coding rate will not increase the range, but will make a link more reliable if interference is present, Higher coding rate will dedicate a bigger part of the packet for error correction
