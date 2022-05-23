@@ -14,7 +14,8 @@ Libraries: Lora, TinyGPS++, SoftwareSerial
 ```
 
 
-![image](https://user-images.githubusercontent.com/81851926/169716993-6c4ed5e3-4ca4-43de-bf8c-706ae3f67546.png)
+
+![image](https://user-images.githubusercontent.com/81851926/169840425-fabbc120-6af9-4be3-8255-6057ad85c2d8.png)
 
 
 
